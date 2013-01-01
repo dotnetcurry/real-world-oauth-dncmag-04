@@ -11,3 +11,6 @@ The source code is explained in [DNC Magazine Issue 4 (Jan-Feb 2013)](http://www
 * Version: 0.0.1
 * Website: [DNC Magazine](http://www.dotnetcurry.com/magazine)
 * GitHub: [DNC Magazine on GitHub](https://github.com/dotnetcurry/real-world-oauth-dncmag-04.git)
+* References: 
+- [What is OAuth](http://oauth.net/about/)
+- [What is OpenID](http://openid.net/get-an-openid/what-is-openid/)
